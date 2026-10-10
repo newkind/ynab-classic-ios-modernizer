@@ -82,7 +82,7 @@ command: every fake Dropbox response is then held back for that many seconds, ke
 
 - Tested on real device iPhone 15 Pro Max on iOS 27.0.1
 - Tested in the simulator on iOS 17.4 (iPhone 15 Pro, iPhone 15 Pro Max) and on
-  iOS 26.3 (iPhone 17 Pro). Other real devices haven't been tested.
+  iOS 26.3 (iPhone 17 Pro). Other devices haven't been tested.
 
 ## FAQ
 
